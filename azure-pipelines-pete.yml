@@ -6,7 +6,8 @@
 # test - pete another
 
 trigger:
-- main
+#- main
+ - azure-pipelines-pete-test
 
 pool:
   vmImage: ubuntu-latest
