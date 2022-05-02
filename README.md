@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/NSWPATH-IS-RAD/Joe/_apis/build/status/nswhpete.js-e2e-express-server?branchName=azure-pipelines-pete-test)](https://dev.azure.com/NSWPATH-IS-RAD/Joe/_build/latest?definitionId=30&branchName=azure-pipelines-pete-test)
 ---
 page_type: sample
 languages:
